@@ -3,14 +3,14 @@
 ★ - выложено
 ✪ - закрыто
 
-★ Lab-1
-★ Lab-2
-★ Lab-3
-☆ Lab-4
-☆ Lab-5
-☆ Lab-6
-☆ Lab-7
-☆ Lab-8
+★ Lab-1\n
+★ Lab-2\n
+★ Lab-3\n
+☆ Lab-4\n
+☆ Lab-5\n
+☆ Lab-6\n
+☆ Lab-7\n
+☆ Lab-8\n
 
-★ Rk-1
-★ Rk-2
+★ Rk-1\n
+★ Rk-2\n
