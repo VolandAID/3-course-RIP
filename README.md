@@ -1,7 +1,7 @@
 # 3-course-РИП
 ☆ - в процессе
 ★ - выложено
-✪ - закрыто
+✪ - сдано
 
 ★ [Lab-1](https://github.com/VolandAID/3-course-RIP/tree/main/Lab-1)
 ---
